@@ -1,0 +1,9 @@
+{
+  "name": "aiprice",
+  "description": "Query AI model prices from Chinese providers (DeepSeek, Qwen, Zhipu, Moonshot, etc.) directly in your coding session. Powered by aiprice.cn — the real-time AI model pricing tracker.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AIPrice.cn",
+    "url": "https://aiprice.cn"
+  }
+}
